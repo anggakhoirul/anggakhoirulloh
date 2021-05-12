@@ -1,1 +1,1 @@
-# praktiku-git
+# praktikum-git
